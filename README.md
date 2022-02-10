@@ -2,7 +2,6 @@
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning python 
 - 💞️ I’m interested in machine learning and data analytics 
-- 📫 Thanks for reading :)
 
 <!---
 hwstyx/hwstyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
